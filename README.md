@@ -8,7 +8,7 @@ This project is a Login and Signup System built using Hibernate, JSP/Servlets, a
 ✅ MySQL Database – Stores user credentials securely.
 
 ## 🛠 Technologies Used:
-Java (JSP/Servlets)
-Hibernate (ORM)
-MySQL (Database)
-Tomcat (Server)
+1. Java (JSP/Servlets)
+2. Hibernate (ORM)
+3. MySQL (Database)
+4. Tomcat (Server)
