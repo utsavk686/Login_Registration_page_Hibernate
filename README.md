@@ -3,8 +3,11 @@ This project is a Login and Signup System built using Hibernate, JSP/Servlets, a
 
 ## Features:
 ✅ User Signup – Register with name, email, password, age, and country.
+
 ✅ User Login – Authenticate with email and password.
+
 ✅ Hibernate ORM – Handles database operations efficiently.
+
 ✅ MySQL Database – Stores user credentials securely.
 
 ## 🛠 Technologies Used:
